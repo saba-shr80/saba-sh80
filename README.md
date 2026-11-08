@@ -44,17 +44,17 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-<h3>​⚙️ Backend, AI & Goals</h3>
+<h3>​🌐 Backend, AI & Goals</h3>
 ​<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI_(Learning)-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Applied_AI_(Goal)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-<h3>Tools & Workflow</h3>
+<h3>⚙️ Tools & Workflow</h3>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vs_Code-181717?style=for-the-badge&logo=vsc&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 <h2>📊 GitHub Analytics</h2>
 ​<p align="center">
