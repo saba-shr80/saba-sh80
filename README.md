@@ -44,7 +44,7 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-<h3>​🌐 Backend, AI & Goals</h3>
+<h3>​🌐 Backend, AI</h3>
 ​<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI_(Learning)-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
