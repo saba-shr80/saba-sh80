@@ -1,4 +1,4 @@
-8<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%90%A7;I'm+Saba+Shirazi;Frontend+Developer;Exploring+Python+%26+AI" alt="Typing SVG" />
 </h1>
 
@@ -49,8 +49,12 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI_(Learning)-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Applied_AI_(Goal)-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+<h3>Tools & Workflow</h3>
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vs_Code-181717?style=for-the-badge&logo=vsc&logoColor=white" />
 </p>
 <h2>📊 GitHub Analytics</h2>
 ​<p align="center">
