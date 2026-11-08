@@ -33,7 +33,7 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 
 <h2>​🛠 Tech Stack & Tools</h2>
 
-<h3>​🌐 Frontend & UI Frameworks</h3>
+<h3>​🖼 Frontend & UI Frameworks</h3>
 ​<p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -54,7 +54,7 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 <h2>📊 GitHub Analytics</h2>
 ​<p align="center">
