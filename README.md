@@ -54,7 +54,7 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/VSC_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 <h2>📊 GitHub Analytics</h2>
 ​<p align="center">
