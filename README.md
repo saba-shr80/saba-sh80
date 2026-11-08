@@ -58,9 +58,10 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 </p>
 <h2>📊 GitHub Analytics</h2>
 ​<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saba-shr80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba-shr80&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saba-shr80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba-shr80&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
-​<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-shr80&theme=tokyonight" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-shr80&theme=tokyonight" alt="GitHub Streak" />
 </p>
