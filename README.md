@@ -57,11 +57,16 @@ Passionate About: AI Engineering, Interactive UI/UX, and Web Technologie
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 <h2>📊 GitHub Analytics</h2>
-​<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saba-shr80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba-shr80&layout=compact&theme=tokyonight&hide=html,css" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saba-shr80&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-shr80&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saba-shr80&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saba-shr80&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saba-shr80&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saba-shr80&theme=tokyonight&utcOffset=3.5" alt="Productive Time" />
 </p>
